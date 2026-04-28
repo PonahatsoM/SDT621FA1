@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.Form1.resources
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.AssemblyInfo.cs
+C:\Users\User\source\repos\FA1SDT\SecAQ3\obj\Debug\net10.0-windows\SecAQ3.csproj.CoreCompileInputs.cache
