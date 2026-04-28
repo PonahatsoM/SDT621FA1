@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\bin\Debug\net10.0\EmfuleniMunicipalityApp.exe
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\bin\Debug\net10.0\EmfuleniMunicipalityApp.deps.json
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\bin\Debug\net10.0\EmfuleniMunicipalityApp.runtimeconfig.json
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\bin\Debug\net10.0\EmfuleniMunicipalityApp.dll
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\bin\Debug\net10.0\EmfuleniMunicipalityApp.pdb
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.AssemblyInfo.cs
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.dll
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\refint\EmfuleniMunicipalityApp.dll
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.pdb
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\EmfuleniMunicipalityApp.genruntimeconfig.cache
+C:\Users\User\source\repos\EmfuleniMunicipalityApp\EmfuleniMunicipalityApp\obj\Debug\net10.0\ref\EmfuleniMunicipalityApp.dll
