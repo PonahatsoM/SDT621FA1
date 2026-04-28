@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FA1SDT\SecQ1\bin\Debug\net10.0\SecQ1.exe
+C:\Users\User\source\repos\FA1SDT\SecQ1\bin\Debug\net10.0\SecQ1.deps.json
+C:\Users\User\source\repos\FA1SDT\SecQ1\bin\Debug\net10.0\SecQ1.runtimeconfig.json
+C:\Users\User\source\repos\FA1SDT\SecQ1\bin\Debug\net10.0\SecQ1.dll
+C:\Users\User\source\repos\FA1SDT\SecQ1\bin\Debug\net10.0\SecQ1.pdb
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.AssemblyInfo.cs
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.dll
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\refint\SecQ1.dll
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.pdb
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\SecQ1.genruntimeconfig.cache
+C:\Users\User\source\repos\FA1SDT\SecQ1\obj\Debug\net10.0\ref\SecQ1.dll
