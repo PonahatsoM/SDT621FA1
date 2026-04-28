@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\bin\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.exe
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\bin\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.deps.json
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\bin\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.runtimeconfig.json
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\bin\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.dll
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\bin\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.pdb
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.Form1.resources
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.AssemblyInfo.cs
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.dll
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\refint\Q3ProgrammingLanguagesApp.dll
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.pdb
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\Q3ProgrammingLanguagesApp.genruntimeconfig.cache
+C:\Users\User\source\repos\Q3ProgrammingLanguagesApp\Q3ProgrammingLanguagesApp\obj\Debug\net10.0-windows\ref\Q3ProgrammingLanguagesApp.dll

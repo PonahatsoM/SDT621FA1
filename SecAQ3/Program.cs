@@ -1,4 +1,4 @@
-namespace SecAQ3
+namespace Q3ProgrammingLanguagesApp
 {
     internal static class Program
     {

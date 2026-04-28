@@ -1,79 +1,48 @@
-using System;
-using System.Collections.Generic;
-using System.Windows.Forms;
-
-namespace SecAQ3
+namespace Q3ProgrammingLanguagesApp
 {
     public partial class Form1 : Form
     {
-        private Dictionary<string, DateTime> languages = new Dictionary<string, DateTime>();
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void listBoxLanguages_SelectedIndexChanged(object sender, EventArgs e)
+        private void btnRemove_Click(object sender, EventArgs e)
         {
-
+            if (lstLanguages.SelectedItem != null)
+            {
+                string removed = lstLanguages.SelectedItem.ToString();
+                lstLanguages.Items.Remove(lstLanguages.SelectedItem);
+                lblStatus.Text = $"Removed '{removed}' at {DateTime.Now}";
+            }
+            else
+            {
+                lblStatus.Text = "No language selected to remove.";
+            }
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            string lang = txtLanguage.Text.Trim();
+            string language = txtLanguage.Text.Trim();
 
             // Prevent empty input
-            if (string.IsNullOrEmpty(lang))
+            if (string.IsNullOrEmpty(language))
             {
-                MessageBox.Show("Please enter a programming language.");
+                lblStatus.Text = "Cannot add empty input.";
                 return;
             }
 
             // Prevent duplicates
-            if (languages.ContainsKey(lang))
+            if (lstLanguages.Items.Contains(language))
             {
-                MessageBox.Show("This language is already in the list.");
+                lblStatus.Text = "Duplicate language not allowed.";
                 return;
             }
 
-            // Add language with timestamp
-            languages[lang] = DateTime.Now;
-            RefreshList();
+            // Add language
+            lstLanguages.Items.Add(language);
+            lblStatus.Text = $"Added '{language}' at {DateTime.Now}";
             txtLanguage.Clear();
         }
-
-        private void btnRemove_Click(object sender, EventArgs e)
-        {
-            if (listBoxLanguages.SelectedItem != null)
-            {
-                // Extract the language name before the dash
-                string selected = listBoxLanguages.SelectedItem.ToString().Split('-')[0].Trim();
-                languages.Remove(selected);
-                RefreshList();
-            }
-            else
-            {
-                MessageBox.Show("Please select a language to remove.");
-            }
-        }
-        private void RefreshList()
-        {
-            listBoxLanguages.Items.Clear();
-            foreach (var entry in languages)
-            {
-                listBoxLanguages.Items.Add($"{entry.Key} - Added on {entry.Value}");
-            }
-        }
-
-        // Optional: handle selection change
-        private void listBoxLanguages_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            // Logic if needed when user selects an item
-        }
-
-        // Optional: handle text change in txtLanguage
-        private void txtLanguage_TextChanged(object sender, EventArgs e)
-        {
-        }
-
     }
 }

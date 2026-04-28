@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FA1SDT\\SecAQ3\\SecAQ3.csproj",
-      "projectName": "SecAQ3",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FA1SDT\\SecAQ3\\SecAQ3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Q3ProgrammingLanguagesApp\\Q3ProgrammingLanguagesApp\\Q3ProgrammingLanguagesApp.csproj",
+      "projectName": "Q3ProgrammingLanguagesApp",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Q3ProgrammingLanguagesApp\\Q3ProgrammingLanguagesApp\\Q3ProgrammingLanguagesApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FA1SDT\\SecAQ3\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Q3ProgrammingLanguagesApp\\Q3ProgrammingLanguagesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Q3ProgrammingLanguagesApp/1.0.0": {
+        "runtime": {
+          "Q3ProgrammingLanguagesApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q3ProgrammingLanguagesApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
